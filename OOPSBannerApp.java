@@ -1,11 +1,4 @@
-/**
- * OOPSBannerApp
- *
- * This application prints the literal text "OOPS" to the console.
- *
- * @author Erza
- * @version 1.0
- */
+
 
 public class OOPSBannerApp {
 
